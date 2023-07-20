@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function Camera() {
     return (
         <View style={styles.container}>
-            <Text> Hello from Camera</Text>
+            <Text> Hello from Scan</Text>
             {/* <Image source={} /> */}
             {/* <StatusBar style="auto" /> */}
         </View>
